@@ -1,9 +1,9 @@
 # 👋 Hey there! I'm Nakshathra Nambiar
 
-🎓 4th-year Computer Science student at Government College of Engineering, Kannur.
-💻 Web development, Cybersecurity, and problem-solving enthusiast
-🎯 Currently focused on full-stack dev, GATE prep, and placement prep
-🛠️ Learning something new every week and documenting my journey
+- 🎓 4th-year Computer Science student at Government College of Engineering, Kannur.
+- 💻 Web development, Cybersecurity, and problem-solving enthusiast
+- 🎯 Currently focused on full-stack dev, GATE prep, and placement prep
+- 🛠️ Learning something new every week and documenting my journey
 
 ## 🚀 Tech Stack
 
