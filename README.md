@@ -40,9 +40,9 @@
 ## 📫 Reach Me
 
 * Email: [nakshathranambiar2004@gmail.com](mailto:nakshathranambiar2004@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/nakshathra-nambiar/](https://www.linkedin.com/in/nakshathra-nambiar/)
-* GitHub: [https://github.com/nakshathra2004/](https://github.com/nakshathra2004/)
-
+* LinkedIn: [linkedin.com/in/nakshathra-nambiar/](https://www.linkedin.com/in/nakshathra-nambiar/)
+* GitHub: [github.com/nakshathra2004/](https://github.com/nakshathra2004/)
+* Portfolio: [nakshathra2004.github.io](https://nakshathra2004.github.io/)
 ---
 
 <!--
