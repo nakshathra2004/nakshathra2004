@@ -14,7 +14,7 @@
 
 ## 🔧 Currently Working On
 
-* 🌐 Finishing a full-stack web project (deadline: May 31)
+* 🌐 Finishing a full-stack web project (deadline: June 30)
 * 📘 Preparing for GATE 2026 (mock tests + PYQs)
 * 🧠 Weekly tech skill series (new skill every Monday!)
 * 💼 Placement prep (resume, coding, aptitude)
