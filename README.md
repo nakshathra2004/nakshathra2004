@@ -71,7 +71,6 @@ Small front-end projects built to improve UI and JavaScript fundamentals.
 
 ## 📊 GitHub Stats
 
-![Nakshathra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakshathra2004&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nakshathra2004&theme=tokyonight&hide_border=true)
 
 ---
